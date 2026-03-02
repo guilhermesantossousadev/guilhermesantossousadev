@@ -6,7 +6,6 @@
   🚀 Focado em Desenvolvimento Web e Banco de Dados
 </p>
 
----
 
 ## 🚀 Sobre mim
 
@@ -15,14 +14,12 @@ Tenho base sólida em lógica de programação, desenvolvimento web e modelagem 
 
 Atualmente estou focado em evoluir como desenvolvedor, criando projetos práticos e aprofundando meus conhecimentos em tecnologia.
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,vue,vscode,react,csharp," />
 </p>
----
 
 ## 📚 Atualmente estudando
 
@@ -31,7 +28,6 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 - Boas práticas de desenvolvimento  
 - Engenharia de Software aplicada  
 
----
 
 ## 📂 Projetos em Destaque
 
@@ -41,14 +37,12 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 *(Em constante evolução 🚀)*
 
----
 
 ## 📫 Contato
 
 📧 Email: guilhermessousa.dev@gmail.com 
 💼 LinkedIn: www.linkedin.com/in/guilherme-santos-sousa-dev
 
----
 
 <p align="center">
   ⭐ Sempre aprendendo. Sempre evoluindo.
