@@ -19,10 +19,9 @@ Atualmente estou focado em evoluir como desenvolvedor, criando projetos prático
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,vscode,react,csharp" />
 </p>
-
 ---
 
 ## 📚 Atualmente estudando
