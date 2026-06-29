@@ -1,49 +1,41 @@
-<h1 align="center">👋 Olá, eu sou o Guilherme Santos</h1>
+<h1 align="center">Ola, eu sou o Guilherme Santos</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação <br>
-  🎓 Engenharia de Software <br>
-  🚀 Focado em Desenvolvimento Web e Banco de Dados
+  Desenvolvedor em formacao, estudante de Engenharia de Software e Tecnico em Desenvolvimento de Sistemas.
 </p>
 
+## Sobre mim
 
-## 🚀 Sobre mim
+Tenho foco em desenvolvimento web, bancos de dados e criacao de aplicacoes completas, unindo frontend, backend, infraestrutura local e boas praticas de organizacao de projetos.
 
-Sou estudante de Engenharia de Software e Técnico em Desenvolvimento de Sistemas.
-Tenho base sólida em lógica de programação, desenvolvimento web e modelagem de banco de dados.
+Atualmente estou aprofundando conhecimentos em:
 
-Atualmente estou focado em evoluir como desenvolvedor, criando projetos práticos e aprofundando meus conhecimentos em tecnologia.
+- React, TypeScript e interfaces web.
+- Java, Spring Boot e APIs REST.
+- Node.js e Express.
+- C#, .NET e arquitetura em camadas.
+- PostgreSQL, SQLite e modelagem de dados.
+- Docker, GitHub Actions e documentacao tecnica.
 
-
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,vue,vscode,react,csharp," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,java,spring,cs,dotnet,mysql,postgres,docker,git,github,vscode" />
 </p>
 
-## 📚 Atualmente estudando
+## Projetos em destaque
 
-- Estrutura de Dados  
-- JavaScript avançado  
-- Boas práticas de desenvolvimento  
-- Engenharia de Software aplicada  
+- `visao_computacional_nic_local`: sistema local de monitoramento com reconhecimento facial, React, Spring Boot, Python e PostgreSQL.
+- `Personal_Finance_App`: aplicacao de controle financeiro pessoal com React, Node/Express e Supabase.
+- `aurum-ecommerce`: e-commerce de joias em React/Vite.
+- `landing-page-fisiofit`: landing page responsiva para clinica/estudio.
+- `JuniorDevAssessment`: avaliacao tecnica com API .NET, SQLite e frontend Vue.
 
+## Contato
 
-## 📂 Projetos em Destaque
-
-🔹 Landing Page Responsiva  
-🔹 Sistema de Cadastro com JavaScript  
-🔹 Modelagem de Banco de Dados  
-
-*(Em constante evolução 🚀)*
-
-
-## 📫 Contato
-
-📧 Email: guilhermessousa.dev@gmail.com 
-💼 LinkedIn: www.linkedin.com/in/guilherme-santos-sousa-dev
-
+- Email: guilhermessousa.dev@gmail.com
+- LinkedIn: [guilherme-santos-sousa-dev](https://www.linkedin.com/in/guilherme-santos-sousa-dev)
 
 <p align="center">
-  ⭐ Sempre aprendendo. Sempre evoluindo.
+  Sempre aprendendo, construindo e melhorando projetos reais.
 </p>
