@@ -1,83 +1,115 @@
-<h1 align="center">Ola, eu sou o Guilherme Santos</h1>
+<h1 align="center">Olá, eu sou o Guilherme Santos 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formacao, estudante de Engenharia de Software e Tecnico em Desenvolvimento de Sistemas.
+  <strong>Desenvolvedor de Software • Estudante de Engenharia de Software • Técnico em Desenvolvimento de Sistemas</strong>
 </p>
 
 <p align="center">
-  Construo aplicacoes web completas, organizando frontend, backend, banco de dados, documentacao e infraestrutura local com foco em aprendizado continuo e projetos reais.
+  Desenvolvo aplicações web, APIs, automações e sistemas completos, buscando entender todo o ciclo de uma solução: arquitetura, frontend, backend, banco de dados, testes, documentação, infraestrutura e deploy.
 </p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em formacao com interesse em desenvolvimento web, APIs, bancos de dados e arquitetura de aplicacoes. Gosto de transformar ideias em sistemas funcionais, bem estruturados e faceis de evoluir.
+Atualmente atuo como **desenvolvedor na NIC-Labs**, contribuindo para a evolução de sistemas e soluções internas.
 
-Atualmente venho aprofundando meus conhecimentos em desenvolvimento full stack, com foco em boas praticas, organizacao de codigo, versionamento, documentacao tecnica e integracao entre diferentes tecnologias.
+Sou estudante de **Engenharia de Software** e também tenho formação técnica em **Desenvolvimento de Sistemas**. Meu foco é evoluir como engenheiro de software construindo projetos reais, entendendo decisões de arquitetura e desenvolvendo soluções que sejam organizadas, manuteníveis e fáceis de evoluir.
 
-## Atualmente estudando
+Tenho interesse principalmente em:
 
-- React, TypeScript e construcao de interfaces web.
-- Java, Spring Boot e desenvolvimento de APIs REST.
-- Node.js, Express e integracao com bancos de dados.
-- C#, .NET e arquitetura em camadas.
-- PostgreSQL, SQLite, MySQL e modelagem de dados.
-- Docker, GitHub Actions, Git e documentacao tecnica.
+* Desenvolvimento **full stack**.
+* Arquitetura de software e organização de sistemas.
+* APIs REST e integrações entre serviços.
+* Bancos de dados relacionais e modelagem de dados.
+* Automações, bots e integrações com APIs externas.
+* Containers, CI/CD e ambientes de desenvolvimento.
+* Testes, documentação técnica e qualidade de código.
 
-## Tecnologias e ferramentas
+## 🚀 Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,java,spring,cs,dotnet,mysql,postgres,docker,git,github,vscode" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vue,nodejs,python,java,spring,cs,dotnet,mysql,postgres,supabase,docker,git,github,githubactions,vscode" alt="Tecnologias e ferramentas" />
 </p>
 
-## Projetos em destaque
+### Frontend
 
-### `visao_computacional_nic_local`
+`React` • `TypeScript` • `JavaScript` • `Vite` • `Vue` • `HTML` • `CSS`
 
-Sistema local de monitoramento com reconhecimento facial, integrando frontend, backend, servicos em Python e banco de dados PostgreSQL.
+### Backend
 
-**Tecnologias:** React, Spring Boot, Python, PostgreSQL, Docker.
+`C#` • `.NET / ASP.NET Core` • `Java` • `Spring Boot` • `Node.js` • `Express` • `Python`
 
-### `Personal_Finance_App`
+### Dados e infraestrutura
 
-Aplicacao de controle financeiro pessoal para organizacao de receitas, despesas e acompanhamento financeiro.
+`PostgreSQL` • `MySQL` • `SQLite` • `Supabase` • `Docker` • `GitHub Actions` • `Git`
 
-**Tecnologias:** React, Node.js, Express, Supabase.
+### Automação e integrações
 
-### `aurum-ecommerce`
+`n8n` • `Google Apps Script` • `Google APIs` • `Discord Bots` • `REST APIs`
 
-E-commerce de joias desenvolvido com foco em interface responsiva, navegacao clara e experiencia de compra.
+---
 
-**Tecnologias:** React, Vite.
+## 📌 Projetos em destaque
 
-### `landing-page-fisiofit`
+### [Life OS](https://github.com/guilhermesantossousadev/Life-Os)
 
-Landing page responsiva para clinica/estudio, com foco em apresentacao de servicos e contato.
+Aplicação pessoal full stack para centralizar tarefas, agenda, metas, projetos, notas, finanças, estudos, carreira e documentos.
 
-**Tecnologias:** HTML, CSS, JavaScript.
+**Destaques:** Clean Architecture, autenticação, API própria, armazenamento privado, testes, Docker e documentação técnica.
 
-### `JuniorDevAssessment`
+**Tecnologias:** React 19, TypeScript, Vite, ASP.NET Core, EF Core, PostgreSQL e Supabase.
 
-Avaliacao tecnica com API, persistencia de dados e frontend integrado.
+### [Fisiofit CRM 2.0](https://github.com/guilhermesantossousadev/fisiofit-crm)
 
-**Tecnologias:** .NET, SQLite, Vue.
+Projeto de um sistema de gestão para clínica, estruturado a partir de modelagem de domínio, regras de negócio, processos, decisões arquiteturais e documentação antes da implementação das funcionalidades.
 
-## O que estou buscando desenvolver
+**Arquitetura alvo:** React, TypeScript, ASP.NET Core, C#, PostgreSQL e monólito modular.
 
-- Criar aplicacoes completas, da modelagem ao deploy.
-- Melhorar a qualidade do codigo com boas praticas e testes.
-- Evoluir em arquitetura backend e integracao entre servicos.
-- Aprofundar conhecimentos em DevOps, containers e pipelines.
-- Participar de projetos reais que gerem aprendizado pratico.
+### [Plataforma Fisiofit](https://github.com/guilhermesantossousadev/ClinicaFisiofitSystem)
 
-## Contato
+Plataforma que reúne site institucional, portal interno, API e banco de dados em um único monorepositório.
 
-- Email: [guilhermessousa.dev@gmail.com](mailto:guilhermessousa.dev@gmail.com)
-- LinkedIn: [guilherme-santos-sousa-dev](https://www.linkedin.com/in/guilherme-santos-sousa-dev)
+**Destaques:** contratos compartilhados, design system, autenticação, RLS, CI/CD e publicação automatizada.
+
+**Tecnologias:** React, TypeScript, Supabase, Hono, GitHub Actions e Hostinger.
+
+### [Automações NIC Labs](https://github.com/guilhermesantossousadev/AutomacoesNic)
+
+Coleção de automações e integrações desenvolvidas para apoio operacional, envolvendo fluxos de agenda, gestão de capacidade e processamento de documentos.
+
+**Tecnologias e integrações:** n8n, Discord, Google Apps Script, Google Sheets, Google Calendar, Node.js e OpenAI.
+
+### [JuniorDevAssessment](https://github.com/guilhermesantossousadev/JuniorDevAssessment)
+
+Projeto de avaliação técnica com aplicação full stack, persistência de dados e integração entre frontend e API.
+
+**Tecnologias:** .NET, SQLite e Vue.
+
+---
+
+## 📚 O que estou aprofundando
+
+* Arquitetura de software e definição de responsabilidades entre camadas.
+* Desenvolvimento backend com ASP.NET Core e Spring Boot.
+* React e TypeScript para aplicações de maior escala.
+* Testes automatizados e estratégias de qualidade.
+* Docker, pipelines e processos de deploy.
+* Modelagem de domínio, documentação técnica e decisões arquiteturais.
+
+## 🎯 Objetivo profissional
+
+Continuar evoluindo como desenvolvedor de software, aumentando minha capacidade de **projetar, implementar e manter sistemas completos**, desde a modelagem inicial até a operação em produção.
+
+Busco construir uma base sólida em engenharia de software para atuar cada vez mais com arquitetura, backend, integrações e desenvolvimento de soluções de ponta a ponta.
+
+## 📫 Contato
+
+* **Email:** [guilhermessousa.dev@gmail.com](mailto:guilhermessousa.dev@gmail.com)
+* **LinkedIn:** [guilherme-santos-sousa-dev](https://www.linkedin.com/in/guilherme-santos-sousa-dev)
 
 ---
 
 <p align="center">
-  Sempre aprendendo, construindo e melhorando projetos reais.
+  <strong>Aprendendo engenharia de software construindo sistemas reais.</strong>
 </p>
