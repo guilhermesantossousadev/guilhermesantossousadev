@@ -24,4 +24,4 @@ Construo sistemas completos, da modelagem do banco à tela que alguém usa todo 
 
 ## Contato
 
-[guilhermessousa.dev@gmail.com](mailto:guilhermessousa.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guilherme-santos-sousa-dev)
+[Portfólio](https://guilhermesantossousadev.github.io) · [guilhermessousa.dev@gmail.com](mailto:guilhermessousa.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/guilherme-santos-sousa-dev)
