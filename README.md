@@ -2,7 +2,7 @@
 
 Desenvolvedor full stack em Belo Horizonte.
 
-Construo sistemas completos, da modelagem do banco à tela que alguém usa todo dia. Trabalho como desenvolvedor na NIC Labs e estudo engenharia de software. Gosto de projetos com usuários reais, porque é aí que arquitetura, testes e documentação deixam de ser teoria.
+Construo sistemas completos, da modelagem do banco à tela que alguém usa todo dia. Sou estagiário de desenvolvimento na NIC Labs e estudo engenharia de software na Una. Gosto de projetos com usuários reais, porque é aí que arquitetura, testes e documentação deixam de ser teoria.
 
 ## Projetos
 
