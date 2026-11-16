@@ -1,6 +1,6 @@
-# Guilherme Santos
+<img src="assets/banner.svg" alt="Guilherme Santos. Desenvolvedor full stack. React, TypeScript e .NET." width="100%">
 
-Desenvolvedor full stack em Belo Horizonte. React, TypeScript e .NET.
+Desenvolvedor full stack em Belo Horizonte.
 
 Construo sistemas completos, da modelagem do banco à tela que alguém usa todo dia. Trabalho como desenvolvedor na NIC Labs e estudo engenharia de software. Gosto de projetos com usuários reais, porque é aí que arquitetura, testes e documentação deixam de ser teoria.
 
