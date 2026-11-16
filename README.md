@@ -60,21 +60,21 @@ Aplicação pessoal full stack para centralizar tarefas, agenda, metas, projetos
 
 **Tecnologias:** React 19, TypeScript, Vite, ASP.NET Core, EF Core, PostgreSQL e Supabase.
 
-### [Fisiofit CRM 2.0](https://github.com/guilhermesantossousadev/fisiofit-crm)
+### Sistema Clínica Fisiofit *(repositório privado)*
 
-Projeto de um sistema de gestão para clínica, estruturado a partir de modelagem de domínio, regras de negócio, processos, decisões arquiteturais e documentação antes da implementação das funcionalidades.
+Sistema de gestão em produção para uma clínica de fisioterapia e pilates com mais de uma unidade: pacientes, planos, pagamentos, agenda e unidades, junto com o site institucional.
 
-**Arquitetura alvo:** React, TypeScript, ASP.NET Core, C#, PostgreSQL e monólito modular.
+**Destaques:** CI com testes automatizados, backup criptografado do banco com teste de restauração e cuidado com dados pessoais (LGPD).
 
-### [Plataforma Fisiofit](https://github.com/guilhermesantossousadev/ClinicaFisiofitSystem)
+**Tecnologias:** Next.js, React, TypeScript, PostgreSQL, Drizzle ORM, Vitest e GitHub Actions.
 
-Plataforma que reúne site institucional, portal interno, API e banco de dados em um único monorepositório.
+### [Jana Modas](https://github.com/guilhermesantossousadev/JanaModasSystem)
 
-**Destaques:** contratos compartilhados, design system, autenticação, RLS, CI/CD e publicação automatizada.
+Mini-ERP responsivo para uma loja de roupas: cadastro de clientes, estoque por grade, vendas e fluxo de caixa.
 
-**Tecnologias:** React, TypeScript, Supabase, Hono, GitHub Actions e Hostinger.
+**Tecnologias:** Next.js 16, React 19, TypeScript, PostgreSQL e Supabase.
 
-### [Automações NIC Labs](https://github.com/guilhermesantossousadev/AutomacoesNic)
+### Automações NIC Labs *(repositório privado)*
 
 Coleção de automações e integrações desenvolvidas para apoio operacional, envolvendo fluxos de agenda, gestão de capacidade e processamento de documentos.
 
